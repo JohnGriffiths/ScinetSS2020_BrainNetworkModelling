@@ -42,7 +42,7 @@ Click on the `Open In Binder` badge above, and wait patiently for the image and 
 
 ### If you're using Google Colab
 
-Click on the `Open In Colabr` badge above, and wait patiently for the environment to be initiated. 
+Click on the `Open In Colab` badge above, and wait patiently for the environment to be initiated. 
 
 Note - in google colab you need to `pip install` non-standard libraries. Each of the notebooks has a commented out section that needs to be un-commented and run in order to make the libraries available on Colab. 
 
