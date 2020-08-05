@@ -1,0 +1,23 @@
+channels:
+    - conda-forge
+dependencies:
+    - python=3.7
+    - numpy
+    - networkx
+    - matplotlib
+    - pandas
+    - numba
+    - numexpr
+    - cython     
+    - scipy
+    - bokeh
+    - rise
+    - pip:
+        - jupyter-contrib-nbextensions
+        - tvb-library
+        - tvb-data
+        - fooof
+        - nilearn
+        - scikit-learn
+        - seaborn
+        - moviepy
