@@ -1,6 +1,8 @@
 # Scinet Summer School 2020: Introduction to Brain Network Modeling
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JohnGriffiths/ScinetSS2020_BrainNetworkModelling/master)
+[![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JohnGriffiths/ScinetSS2020_BrainNetworkModelling/master)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JohnGriffiths/ScinetSS2020_BrainNetworkModelling/)
 
 
 ### Developed by
@@ -35,22 +37,16 @@ git clone https://github.com/JohnGriffiths/ScinetSS2020_BrainNetworkModelling
 4. Navigate to the `notebooks` folder in the downloaded github repo folder, and open up the course notebooks 
 
 
+### If you're using Binder
+
+Click on the `Open In Binder` badge above, and wait patiently for the image and environment to be built and initiated. 
+
+
 ### If you're using Google Colab
 
-To run on Google Colab:
-
-Go to https://colab.research.google.com.
-
-Click File --> Open --> Github
-
-Copy and paste this URL: https://github.com/johngriffiths/ScinetSS2020_BrainNetworkModelling, then press Enter.
-
-Choose the `intro_to_whole_brain_modelling.ipynb` or `modelling_resting_state.ipynb` notebook
+Click on the `Open In Colabr` badge above, and wait patiently for the environment to be initiated. 
 
 Note - in google colab you need to `pip install` non-standard libraries. Each of the notebooks has a commented out section that needs to be un-commented and run in order to make the libraries available on Colab. 
 
 
-### If you're using Binder
-
-Click on the binder badge above and wait patiently for the environment to be built and initiated. 
 
