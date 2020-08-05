@@ -47,4 +47,27 @@ Click on the `Open In Colab` badge above, and wait patiently for the environment
 Note - in google colab you need to `pip install` non-standard libraries. Each of the notebooks has a commented out section that needs to be un-commented and run in order to make the libraries available on Colab. 
 
 
+### For course attendees:
+
+
+#### Login information
+
+See [here](https://support.scinet.utoronto.ca/education/go.php/540/index.php/ib/1/) for the scinet course webpage
+
+To access the jupyterhub: 
+
+- Click 'log in' in the top right. Enter your login details
+- From the [course website](https://support.scinet.utoronto.ca/education/go.php/540/index.php), click 'login information for cluster'
+- Follow the instructions: go to the scinet jupyterhub site, and enter the uname/pwd displayed on the previous page
+- Follow the jupyterhub instructions above
+
+#### Homework assignment
+
+The homework assignment for the course can be found in `notebooks/homework_assignment.ipynb`
+
+This follows on from the `intro_to_whole_brain_modelling.ipynb` notebook, which is the basis of the practical session. 
+
+Completed assignments should be uploaded to the designated folder on the [course website](https://support.scinet.utoronto.ca/education/go.php/540/index.php).
+
+These should take the form of jupyter notebooks that are extended from `homework_assignment.ipynb`. 
 
