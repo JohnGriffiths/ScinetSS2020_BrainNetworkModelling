@@ -35,12 +35,22 @@ git clone https://github.com/JohnGriffiths/ScinetSS2020_BrainNetworkModelling
 4. Navigate to the `notebooks` folder in the downloaded github repo folder, and open up the course notebooks 
 
 
-### If you're running locally on your machine
+### If you're using Google Colab
 
-Mooch on over to the [scwg python neuroimaging course github repo](https://github.com/jerdra/scwg2018_python_neuroimaging) and follow the alternative setup instructions in the README. You'll have to make a few (fairly obvious) adaptions, namely replacing the url of that repo with the url of this one. 
+To run on Google Colab:
+
+Go to https://colab.research.google.com.
+
+Click File --> Open --> Github
+
+Copy and paste this URL: https://github.com/johngriffiths/ScinetSS2020_BrainNetworkModelling, then press Enter.
+
+Choose the `intro_to_whole_brain_modelling.ipynb` or `modelling_resting_state.ipynb` notebook
+
+Note - in google colab you need to `pip install` non-standard libraries. Each of the notebooks has a commented out section that needs to be un-commented and run in order to make the libraries available on Colab. 
 
 
+### If you're using Binder
 
-
-
+Click on the binder badge above and wait patiently for the environment to be built and initiated. 
 
